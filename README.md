@@ -1,4 +1,4 @@
-# opinion-ate
+# Where to eat
 
 An app for tracking reviews of dishes at different restaurants.
 
